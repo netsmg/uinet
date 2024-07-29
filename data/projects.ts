@@ -1,0 +1,38 @@
+export const projects = [
+  { 
+    id: 1,
+    title: "WEBUInet",
+    description: "WEBUInet is a multipurpose website for real.",
+    slug: "webuinet",
+    image: "/img/blog/post3.jpg",
+    date: "May 2023",
+    liveLink: "https://webuinet.vercel.app",
+    codeLink: "/projects/details",
+    content: "WEBUInet, the authentic blog where we share unique thoughts from around the globe. Dive into our engaging content and discover new perspectives on a variety of topics.",
+    techStack: ["Svelte", "Firebase", "TypeScript"],
+  },
+  {
+    id: 2,
+    title: "Casperian",
+    description: "Casperian is a multipurpose website where users can post, read, and write.",
+    slug: "casperian",
+    image: "/img/blog/post4.jpg",
+    date: "June 2023",
+    liveLink: "https://casperian.vercel.app",
+    codeLink: "/projects/details",
+    techStack: ["React", "Node.js", "MongoDB"],
+  },
+  {
+    id: 3,
+    title: "PWTBLOG",
+    description: "An authentic blog website where users can post, read, write, see, and dive.",
+    slug: "pwtblog",
+    image: "/img/blog/post5.jpg",
+    date: "June 2023",
+    liveLink: "https://pwtblog.vercel.app",
+    codeLink: "/projects/details",
+    content: "PWTBLOG, the authentic blog where we share unique thoughts from around the globe. Dive into our engaging content and discover new perspectives on a variety of topics.",
+    techStack: ["Svelte", "JavaScript", "Firebase"],
+  },
+  // Add more projects as needed
+];
