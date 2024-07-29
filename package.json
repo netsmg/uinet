@@ -1,5 +1,5 @@
 {
-  "name": "ui-libs",
+  "name": "uinet",
   "private": true,
   "scripts": {
     "build": "nuxt build",
