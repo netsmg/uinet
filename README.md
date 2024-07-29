@@ -1,7 +1,7 @@
 # Portfolio and blog for Vue 3 / Nuxt 3
 
 
-[![social preview](https://ui-libs.vercel.app/img/blog/post9.jpg)](https://ui-libs.vercel.app/)
+[![social preview](https://web-libnet.vercel.app/img/blog/post9.jpg)](https://web-libnet.vercel.app/)
 
 
 
@@ -11,7 +11,7 @@
 ## About me
 
 I'm Mohammad Al-amin , 17, living in Dhaka,Bangladesh and <b>available for hire</b>.
-Visit [my website](https://web-libnet.vercel.app) to know more about me, or [contact me](https://web-libner.vercel.app/contact).
+Visit [my website](https://web-libnet.vercel.app) to know more about me, or [contact me](https://web-libnet.vercel.app/contact).
 
 ### Want to support?
 
